@@ -1,2 +1,2 @@
-#Object-detection
- Detection of welding defect
+# Object-detection
+# Detection of welding defect
